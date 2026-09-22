@@ -1,4 +1,14 @@
-## Hi there 👋
+## Ы
+
+Я работаю с такими языками как Swift, C, C++, ну и начал изучать C#.
+По учебным задачам начинал с C(practice), продожил С++(oop, SAOD1,compmath) и в итоге пришёл к Swift(oop, SAOD1, compmath).
+
+Также начал работать со своими проектами(Tycoon5, Maze, Dungeons, DungeonsC#).
+
+Fun fact: В проектах Maze и Dungeons код написан на разных языках в разных модулях, например:
+генерация карты идёт на C, взаимодействие с пользователем на Swift, а хранение вещей на C++.
+
+DungeonsC# это тот же Dungeons, но переписанный и работающий полностью на C#.
 
 <!--
 **CreepyPip/CreepyPip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
